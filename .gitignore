@@ -1,0 +1,7 @@
+data_collection/
+credentials/    
+# data/raw/**comments.csv     
+#*comments.csv         # files are too large for github
+comments_sentiment.csv
+**post_ids**csv
+**.DS_Store
